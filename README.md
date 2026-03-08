@@ -15,13 +15,13 @@ A modern, full-featured CRM (Customer Relationship Management) system built with
 ## 🖥️ Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](public/screenshots/dashboard.png)
 
 ### Kanban Board
-![Kanban](screenshots/kanban.png)
+![Kanban](public/screenshots/kanban.png)
 
 ### Customers
-![Customers](screenshots/customers.png)
+![Customers](public/screenshots/customers.png)
 
 ## 🛠️ Tech Stack
 
